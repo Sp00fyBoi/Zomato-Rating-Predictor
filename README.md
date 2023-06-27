@@ -8,7 +8,7 @@ The main objective of this project is to evaluate several popular machine learni
 
 ## Dataset
 
-We utilize a dataset of Yelp reviews and ratings for this study. The dataset includes a wide range of features, including user information, restaurant attributes, and textual reviews. This comprehensive dataset allows us to explore the relationship between these features and restaurant ratings.
+We utilize a dataset of Yelp reviews and ratings for this study. The dataset includes a wide range of features, including user information and restaurant attributes. This comprehensive dataset allows us to explore the relationship between these features and restaurant ratings.
 
 ## Methodology
 
